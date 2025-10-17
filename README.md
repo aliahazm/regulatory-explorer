@@ -1,6 +1,6 @@
 # Overview
 
-This project is an AI-Enhanced Regulatory Document Explorer Chanllenge from Otonoco AI. The aim was to showcase my approach to problem-solving, architecture decisions, and implementation skills within a limited timeframe.
+This project is an AI-Enhanced Regulatory Document Explorer Challenge from Otonoco AI. The aim was to showcase my approach to problem-solving, architecture decisions, and implementation skills within a limited timeframe.
 
 ## Approach and Architecture Decisions
 
